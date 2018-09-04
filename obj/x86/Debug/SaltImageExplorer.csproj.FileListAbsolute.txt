@@ -1,0 +1,8 @@
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\bin\Debug\SaltImageExplorer.exe
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\bin\Debug\SaltImageExplorer.pdb
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.Form1.resources
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.Properties.Resources.resources
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.csproj.GenerateResource.Cache
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.exe
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.pdb
+C:\Research\MachineLearning\Salt\Code\C#\SaltImageExplorer\SaltImageExplorer\obj\x86\Debug\SaltImageExplorer.csprojResolveAssemblyReference.cache
